@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Data directory (for runing lambda in test mode)
+fixtures
+
+# Intellij Idea files
+.idea
+
+# VS Code
+.vscode
+
+# Local environment
+.env
+
+# Tmp
+.git
+.gitignore
+
+.eslintrc.js
